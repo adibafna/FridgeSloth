@@ -1,0 +1,34 @@
+[
+  {
+    "id": "midnight-dorm",
+    "name": "🌙 The Midnight Dorm Scrape",
+    "tagline": "You have 5% energy. You refuse to wash a cutting board.",
+    "items": "Eggs, cold leftover white rice, 2 slices of cheddar cheese, half a bottle of Sriracha, 1 wilting green onion, salted butter",
+    "effort": "couch",
+    "diet": "None"
+  },
+  {
+    "id": "pantry-archaeologist",
+    "name": "🥫 The Pantry Archaeologist",
+    "tagline": "Haven't grocery shopped in 11 days. Surviving on cans and hope.",
+    "items": "Can of black beans, 2 flour tortillas, jar of salsa with 3 spoonfuls left, sour cream tub, pickled jalapeño slices, shredded Monterey jack",
+    "effort": "skillet",
+    "diet": "Vegetarian"
+  },
+  {
+    "id": "veggie-guilt",
+    "name": "🥦 The Sunday Veggie Guilt",
+    "tagline": "Bought spinach to feel responsible. Must eat before it liquefies.",
+    "items": "Wilting baby spinach, block of firm tofu, soy sauce, 1 clove garlic, toasted sesame oil, instant ramen noodle block",
+    "effort": "couch",
+    "diet": "Vegan"
+  },
+  {
+    "id": "comfort-vault",
+    "name": "🧀 The Hangover Comfort Vault",
+    "tagline": "Physical motion is contraindicated. Maximum melted carbs.",
+    "items": "Sharp cheddar block, 2 bread heels, can of Campbell tomato soup, garlic powder, bag of salted potato chips, mayonnaise",
+    "effort": "skillet",
+    "diet": "None"
+  }
+]

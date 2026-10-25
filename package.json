@@ -1,0 +1,21 @@
+{
+  "name": "fridgesloth",
+  "version": "1.0.0",
+  "description": "100% Local, Zero-Effort Fridge-to-Feast Copilot & Grocery Butler powered by Google DeepMind Gemma 3 Vision",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "gemma3",
+    "gemma",
+    "open-source-ai",
+    "local-inference",
+    "ollama",
+    "computer-vision",
+    "sloth",
+    "hacktoberfest"
+  ],
+  "author": "Aditya Bafna",
+  "license": "MIT"
+}
